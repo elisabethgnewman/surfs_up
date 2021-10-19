@@ -13,5 +13,5 @@ Below are screen shots of the two summary statistics tables for June and Decembe
 ### December
 ![image](https://user-images.githubusercontent.com/88783255/138004583-db0deb12-0e1d-4863-b8ab-97e1387e6004.png)
 
-At first glance, Hawaii's weather in both June and December looks a lot nicer than Austin's summer heat wave and the recent snowpocalypse :cold_face:!
+At first glance, Hawaii's weather in both June and December looks a lot nicer than Austin's summer heat wave :hot_face: and the recent snowpocalypse :cold_face:! But in all seriousness, we can see here that even though Hawaii is a vacation spot, there's still a risk of cooler temperatures in the winter. 
 
