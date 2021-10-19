@@ -15,3 +15,5 @@ Below are screen shots of the two summary statistics tables for June and Decembe
 
 At first glance, Hawaii's weather in both June and December looks a lot nicer than Austin's summer heat wave :hot_face: and the recent snowpocalypse :cold_face:! But in all seriousness, we can see here that even though Hawaii is a vacation spot, there's still a risk of cooler temperatures in the winter. 
 
+The key differences between the weather in June and the weather in December are:
+* The minimum temperature in December is as low as 56 (vs. 64 in June)!
