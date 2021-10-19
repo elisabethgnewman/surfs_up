@@ -17,3 +17,14 @@ At first glance, Hawaii's weather in both June and December looks a lot nicer th
 
 The key differences between the weather in June and the weather in December are:
 * The minimum temperature in December is as low as 56 (vs. 64 in June)!
+* The standard deviation for the temperature in December is 3.75 (vs. 3.26 in June), meaning there could be more variability with winter temps.
+* There were almost 200 more data points in June's data compared to the Decembe data.
+
+## Summary
+After reviewing the results in the section above, it appears that there could be some sort of seasonality with the surfing season in Hawaii. However, we certainly can't definiteively say that customers wouldn't shop or even surf in the winter months.
+
+Additional queries that could help us inform the investor of the surf shop's seasonality include information on the:
+* Water temperatures,
+* Precipitation, and
+* Tourism in June and December.
+
