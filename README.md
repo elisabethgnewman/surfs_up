@@ -26,5 +26,8 @@ After reviewing the results in the section above, it appears that there could be
 Additional queries that could help us inform the investor of the surf shop's seasonality include information on the:
 * Water temperatures,
 * Precipitation, and
-* Tourism in June and December.
+* Tourism
+in June and December.
+
+Understanding trends beyond the temperatures in June and December could be very helpful with this analysis.
 
