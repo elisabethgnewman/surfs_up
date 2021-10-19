@@ -10,4 +10,8 @@ Below are screen shots of the two summary statistics tables for June and Decembe
 
 ### June
 ![image](https://user-images.githubusercontent.com/88783255/138004424-6c518dec-32d2-44da-bf03-2cf2c0aed8d6.png)
+### December
+![image](https://user-images.githubusercontent.com/88783255/138004583-db0deb12-0e1d-4863-b8ab-97e1387e6004.png)
+
+At first glance, Hawaii's weather in both June and December looks a lot nicer than Austin's summer heat wave and the recent snowpocalypse :cold_face:!
 
